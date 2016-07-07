@@ -1,0 +1,99 @@
+/* This stylesheet is used to style the admin option form of the plugin. */
+
+.brimg-form {
+	margin-bottom: 3em;
+}
+
+.field-desc {
+	display: block;
+	color: #888;
+	font-style: italic;
+}
+
+/* ==========================================================================
+   BREAKPOINT FORMS
+   ========================================================================== */
+
+/* WRAPPING TABLE
+   ========================================================================== */
+.brimg-bp__form .form-table {
+	margin-top: 2em;
+}
+
+ .brimg-bp__form .form-table th {
+	position: absolute;
+	left: -999em;
+}
+
+.brimg-bp__form .form-table td {
+
+}
+
+/* FIELDSETS
+   ========================================================================== */
+
+.brimg-bp__fs {
+	margin-right: 5%;
+	margin-bottom: 3em;
+	float: left;
+}
+
+.brimg-bp__fs legend {
+	font-weight: bold;
+	font-size: 1.1em;
+	padding: 0 0 0.5em 0;
+	margin: 0;
+}
+
+/* FIELDS
+   ========================================================================== */
+
+.brimg-bp__field {
+	overflow: hidden;
+	margin-bottom: 1em;
+}
+
+.brimg-bp__fs label,
+.brimg-bp__fs input {
+	display: inline-block;
+	vertical-align: middle;
+}
+
+.brimg-bp__fs label {
+	width: 140px;	
+}
+
+.brimg-bp__fs input[readonly] {
+	color: #999;
+	cursor: not-allowed;
+	background-color: #f4f4f4;
+}
+
+
+
+/* ==========================================================================
+   SCRIPT FORMS
+   ========================================================================== */
+
+.brimg-scripts__form label {
+	margin-right: 2em;
+}
+
+.brimg-scripts__form input {
+	margin-right: 1em;
+}
+
+
+/* ==========================================================================
+   HELPERS
+   ========================================================================== */
+
+.vh,
+.v-hidden,
+.screen-reader-text,
+.assistive-text {
+  position: absolute !important;
+  clip: rect(1px 1px 1px 1px);
+  /* IE6, IE7 */
+  clip: rect(1px, 1px, 1px, 1px);
+}
