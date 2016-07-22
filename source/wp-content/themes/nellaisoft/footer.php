@@ -23,7 +23,9 @@
         <div class="container">
             <div class="site-info">
                 <?php //do_action( 'ascent_credits' ); ?>
-                <a href="http://wordpress.org/" title="<?php esc_attr_e( 'A Semantic Personal Publishing Platform', 'ascent' ); ?>" ><?php printf( __( '&copy; '.date("Y").' Rank Properties. All rights reserved', 'ascent' ), 'WordPress' ); ?></a>	
+                
+               <?php printf( __( '&copy; '.date("Y"). '&nbsp;&nbsp;Nellai Soft. All rights reserved', 'ascent' ), 'WordPress' ); ?>
+                
                 <span class="sep"> | </span>
                 <?php printf( __( '%1$s  ', 'ascent' ), 'Powered by '); ?><a href="<?php echo esc_url( __( 'http://www.caltechsoft.com/', 'ascent' ) ); ?>"><?php printf( __( 'Caltech Soft Pvt Ltd', 'ascent' ), 'Caltech Soft Private Ltd' ); ?></a>
             </div><!-- close .site-info -->

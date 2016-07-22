@@ -552,8 +552,7 @@ nav.main-menu ul > li ul {
     padding: 0;
     margin: 0;
     position: absolute;
-    top: 60px;
-    left:-48px;
+    top: 30px;
     width: 190px;
     display: none;
     background-color: #262932;

@@ -1,0 +1,394 @@
+msgid ""
+msgstr "MIME-Version: 1.0\n"
+
+#. Name.
+msgid "WooCommerce Catalog Enquiry"
+msgstr ""
+
+#. Short description.
+msgid "WooCommerce Catalog Enquiry is a catalog plugin - it allows the user to convert a WooCommerce store into a catalog website in a click."
+msgstr ""
+
+#. Screenshot description.
+msgid "WooCommerce Catalog Enquiry admin settings 1"
+msgstr ""
+
+#. Screenshot description.
+msgid "WooCommerce Catalog Enquiry admin settings 2"
+msgstr ""
+
+#. Screenshot description.
+msgid "WooCommerce Catalog Enquiry admin settings 3"
+msgstr ""
+
+#. Screenshot description.
+msgid "WooCommerce Catalog Enquiry admin settings 4"
+msgstr ""
+
+#. Screenshot description.
+msgid "WooCommerce Catalog Enquiry frontend catalog mode custom button"
+msgstr ""
+
+#. Screenshot description.
+msgid "WooCommerce Catalog Enquiry frontend shop mode"
+msgstr ""
+
+#. Screenshot description.
+msgid "WooCommerce Catalog Enquiry frontend catalog mode without button and without price"
+msgstr ""
+
+#. Screenshot description.
+msgid "WooCommerce Catalog Enquiry frontend catalog mode only price no button"
+msgstr ""
+
+#. Screenshot description.
+msgid "WooCommerce Catalog Enquiry frontend catalog mode custom button with price"
+msgstr ""
+
+#. Screenshot description.
+msgid "WooCommerce Catalog Enquiry frontend catalog mode product page"
+msgstr ""
+
+#. Screenshot description.
+msgid "WooCommerce Catalog Enquiry frontend catalog mode with enquiry form"
+msgstr ""
+
+#. Screenshot description.
+msgid "WooCommerce Catalog Enquiry frontend catalog mode with enquiry form mobile view"
+msgstr ""
+
+#. Screenshot description.
+msgid "WooCommerce Catalog Enquiry admin settings for exclusion rules"
+msgstr ""
+
+#. Screenshot description.
+msgid "WooCommerce Catalog Enquiry admin settings for exclusion for selected users"
+msgstr ""
+
+#. Screenshot description.
+msgid "WooCommerce Catalog Enquiry admin settings for exclusion for selected products"
+msgstr ""
+
+#. Screenshot description.
+msgid "WooCommerce Catalog Enquiry admin settings for exclusion for selected categories"
+msgstr ""
+
+#. Screenshot description.
+msgid "WooCommerce Catalog Enquiry frontend shop view for excluded selected products from catalog"
+msgstr ""
+
+#. Screenshot description.
+msgid "WooCommerce Catalog Enquiry frontend excluded selected categories view"
+msgstr ""
+
+#. Screenshot description.
+msgid "WooCommerce Catalog Enquiry frontend shop view for selected uses."
+msgstr ""
+
+#. Screenshot description.
+msgid "WooCommerce Catalog Enquiry frontend product details page view for variation product."
+msgstr ""
+
+#. Screenshot description.
+msgid "WooCommerce Catalog Enquiry frontend product details page view for variation product for mobile."
+msgstr ""
+
+#. Screenshot description.
+msgid "Enquiry form label settings  section."
+msgstr ""
+
+#. Found in description header.
+msgid "Features"
+msgstr ""
+
+#. Found in description header.
+msgid "Compatibility"
+msgstr ""
+
+#. Found in description header.
+msgid "Configurable"
+msgstr ""
+
+#. Found in description header.
+msgid "Feedback"
+msgstr ""
+
+#. Found in description list item.
+msgid "Enable/disable the plugin from option panel."
+msgstr ""
+
+#. Found in description list item.
+msgid "Enable plugin settings for administrators."
+msgstr ""
+
+#. Found in description list item.
+msgid "Enable/disable plugin functions disabling the entire plugin."
+msgstr ""
+
+#. Found in description list item.
+msgid "Hide product price."
+msgstr ""
+
+#. Found in description list item.
+msgid "Hide -Add to Cart- button in product detail page."
+msgstr ""
+
+#. Found in description list item.
+msgid "Hide -Add to Cart- button in the other pages of the site (catalog, shop etc.)."
+msgstr ""
+
+#. Found in description list item.
+msgid "Hide price to all users or to unregistered users only."
+msgstr ""
+
+#. Found in description list item.
+msgid "Add a tab/button with an inquiry form."
+msgstr ""
+
+#. Found in description list item.
+msgid "Add a custom button in product page."
+msgstr ""
+
+#. Found in description list item.
+msgid "Add external link for all products."
+msgstr ""
+
+#. Found in description list item.
+msgid "Add external product link for individual products."
+msgstr ""
+
+#. Found in description list item.
+msgid "Choose the group you want to apply catalog settings (registered, non registered users)."
+msgstr ""
+
+#. Found in description list item.
+msgid "Select enquiry form field from admin section."
+msgstr ""
+
+#. Found in description list item.
+msgid "Change the link of images and title with given link."
+msgstr ""
+
+#. Found in description list item.
+msgid "Reponsive enquiry form, even when the website is non responsive."
+msgstr ""
+
+#. Found in description list item.
+msgid "New Exclusions list settings introduce."
+msgstr ""
+
+#. Found in description list item.
+msgid "Admin Can Restricted the store for selected users other users will see catalog only."
+msgstr ""
+
+#. Found in description list item.
+msgid "Admin can open the sale for selected categories products others categories products will shown only catalog."
+msgstr ""
+
+#. Found in description list item.
+msgid "Admin can open the sale for selected products others products will seen as catalog."
+msgstr ""
+
+#. Found in description list item.
+msgid "Restricted stores features."
+msgstr ""
+
+#. Found in description list item.
+msgid "Enable/disable the exclusion rules in a click."
+msgstr ""
+
+#. Found in description list item.
+msgid "Enquiry button can be customized completely from plugin settings."
+msgstr ""
+
+#. Found in description list item, changelog list item.
+msgid "New captcha enable/disable settings added."
+msgstr ""
+
+#. Found in description list item, changelog list item.
+msgid "New settings section introduce Form Fields Label settings. where admin can put his/her own custom label for enquiry form fields."
+msgstr ""
+
+#. Found in description list item.
+msgid "WooCommerce 2.0+"
+msgstr ""
+
+#. Found in description list item.
+msgid "WordPress 3.8.1+"
+msgstr ""
+
+#. Found in description list item.
+msgid "The theme should be WooCommerce standards compliant."
+msgstr ""
+
+#. Found in description list item.
+msgid "Multilingual Support is included with the plugin and is fully compatible with WPML."
+msgstr ""
+
+#. Found in description paragraph.
+msgid "WooCommerce Catalog Enquiry converts your Woostore into a catalog store. You can also use this plugin to get product enquiries from users. The WooCommerce Catalog Enquiry has perhaps the most number of features and yet is a free plugin."
+msgstr ""
+
+#. Found in description paragraph.
+msgid "Following is a non comprehensive list of features:"
+msgstr ""
+
+#. Found in description paragraph.
+msgid "We are adding new features as you are reading. So If your required feature is currently not available in this plugin, feel free to put up a request in the support forum for this plugin or revisit the page after a few weeks."
+msgstr ""
+
+#. Found in description paragraph.
+msgid "This plugin is highly configurable, with options to customize almost every feature you may think of."
+msgstr ""
+
+#. Found in description paragraph.
+msgid "Click to see the <a href=\"http://demo.dualcube.com/wordpress/plugins/woocommerce-catalog-enquiry/wp-admin/\" title=\"Live Demo\">Live Demo</a>"
+msgstr ""
+
+#. Found in description paragraph.
+msgid "All we want is love. We are extremely responsive about support requests - so if you face a problem or find any bugs, shoot us a mail or post it in the support forum, and we will respond within 24 hours(during business days). If you get the impulse to rate the plugin low because it is not working as it should, please do wait for our response because the root cause of the problem may be something else."
+msgstr ""
+
+#. Found in description paragraph.
+msgid "It is extremely disheartening when trigger happy users downrate a plugin for no fault of the plugin."
+msgstr ""
+
+#. Found in installation list item.
+msgid "Upload the <code>WooCommerce Catalog Enquiry</code> folder to the <code>/wp-content/plugins/</code> directory OR search for \"WooCommerce Catalog Enquiry\" from your WordPress admin."
+msgstr ""
+
+#. Found in installation list item.
+msgid "Activate the plugin through the 'Plugins' menu in WordPress."
+msgstr ""
+
+#. Found in installation list item.
+msgid "Configure the plugin settings through the \"WooCommerce Catalog Enquiry settings\" menu on your WordPress admin panel."
+msgstr ""
+
+#. Found in installation list item.
+msgid "Now click on the settings link and configure the plugin as per your requirement."
+msgstr ""
+
+#. Found in installation paragraph.
+msgid ""
+"This plugin is created for WooCommerce, so you must have to WooCommerce is installed in your WordPress website. \n"
+"If your WordPress website haven't WooCommerce installed then first install WooCommerce plugin please follow the link of WooCommerce plugin https://wordpress.org/plugins/woocommerce/. If you are new in WordPress and don't know to how to install a WordPress plugin then follow the link https://codex.wordpress.org/Managing_Plugins. \n"
+"You can find how to install WordPress plugin. For this plugin install you can also follow the same link.\n"
+"WooCommerce Catalog Enquiry maintain the standardization of woo themes. There are we are working on the slandered hooks and filter for the given functionality."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Feature - Simple and variable product sku is added in enquiry email."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Feature - Default attributes selection of variable products."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Feature - Settings option added for override admin email with other email."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Feature - Settings option added for override the form headings with custom headings."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Feature - Settings option added for remove enquiry popup with same page enquiry form."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Feature - Settings option added for redirect the page after enquiry."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix - Variable word removed from the variable products details page."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix - Email validation added in equiry form."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix - Many small css fixing."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Removed manadatory field from disable/enable settings (Name and Email). "
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix - Some notice message is fixed in this version."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Feature - \"Variation product\" support added in this version."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Multiple admin email address can be added for getting enquiry mail"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Settings panel is added to customize catelog enquiry button"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Minor changes in form content"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Minor changes to support latest WooCommerce 2.3.10"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Price display in single page issue fixed."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Settings menu moved under the WooCommerce section."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Restricted store features added in this version."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "New exclusion settings panel introduce in this version."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Cart and catalog both working at a same time as per the admin configuration "
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Minor changes to make it compatible with other major plugins."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Initial version release."
+msgstr ""
+
+#. Found in faq header.
+msgid "Can we install this plugin without WooCommerce?"
+msgstr ""
+
+#. Found in faq header.
+msgid "Can we use this plugin for commercial use?"
+msgstr ""
+
+#. Found in faq header.
+msgid "Can we use this plugin for shop and catalog both ?"
+msgstr ""
+
+#. Found in faq paragraph.
+msgid "Ans. No, you can't install this plugin without WooCommerce plugin. It's a WooCommerce add-on plugin."
+msgstr ""
+
+#. Found in faq paragraph.
+msgid "Ans. Yes, you can use this plugin for your commercial use under the http://www.gnu.org/licenses/gpl-2.0.html."
+msgstr ""
+
+#. Found in faq paragraph.
+msgid "Ans. Yes, you can use this plugin for shop and catalog at a time like you can restrict you shop for only registered user."
+msgstr ""

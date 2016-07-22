@@ -33,6 +33,10 @@ Template: ascent
 .skill p{text-align: justify !important; color: #fff !important; font-size: 17px !important; line-height: 10px !important; padding-right: 10px !important;}
  
  .skill-background{ background:url(images/quality_1.png) no-repeat !important;   display: block; width:366; height:276px; margin-top:30px;}
+ 
+ .skill-background-one{ background:url(images/quality_2.png) no-repeat !important;   display: block; width:366; height:276px; margin-top:30px;}
+ 
+  .skill-background-two{ background:url(images/quality_3.png) no-repeat !important;   display: block; width:366; height:276px; margin-top:30px;}
 
 .skill_top_head h2{color: #fff !important;
     font-family: Arial,Helvetica,sans-serif;
@@ -102,11 +106,7 @@ nav.main-menu ul > li:hover > a, nav.main-menu ul > .current-menu-item > a {
     color: #fff;
 }
 
-.main-content {
-    margin-bottom: -43px;
-    margin-top: -110px !important;
-    padding: 0 10px !important;
-}
+
 
 .our_talent p{text-align:center !important; color: #fff !important; font-size: 300px !important; font-weight:bold !important;  line-height: 30px !important; padding-right: 10px !important;}
 
@@ -145,11 +145,26 @@ nav.main-menu ul > li:hover > a, nav.main-menu ul > .current-menu-item > a {
 }
 
 
+nav.main-menu ul > li ul {
+    z-index: 9999;
+    padding: 0;
+    margin: 0;
+    position: absolute;
+    top: 60px !important;
+    width: 190px;
+    display: none;
+    background-color: #262932;
+	border-top: solid 5px #39e5a3;
+	
+	}
+
+
 ul.top-links li a i{
 	font-size:30px !important;
 	padding-left:35px;
 	padding:5px;
 	color:#39e5a3;
+	float:left;
 }
 ul.top-links li a i:hover {
 	color:#fff;
@@ -186,7 +201,7 @@ ul.top-links li a, ul.top-links li a i {
     color: #fff !important;
     float: left;
     font-size: 21px;
-    padding: 0;
+    padding: 0 0 5px;
     text-align:left;
 	margin:0;
 	margin-top:5px;
@@ -194,7 +209,7 @@ ul.top-links li a, ul.top-links li a i {
 	
  ul.address_icon { margin:0; padding:0; float:left; margin-top:10px}
 
- ul.address_icon li{ font-size:15px; color:#39e5a3;  list-style:none; }
+ ul.address_icon li{ font-size:15px; color:#39e5a3;  list-style:none; margin-top:7px }
  
 ul.address_icon li a{ margin-left:10px; outline:none; text-decoration:none;}
 
@@ -239,6 +254,46 @@ ul.about_benifits li a:hover{
 	color:#08b271;
 }
 ul.about_benifits li a:hover:before {
+  transform: scale(1.1);
+  -webkit-transform: scale(1.1);
+  -moz-transform: scale(1.1);
+  -o-transform: scale(1.1);
+  -ms-transform: scale(1.1);
+  left: 2%;
+}
+
+
+ul.graphic li{
+	display:block;	
+	margin: 1em 0 0;
+	position:relative;
+}
+
+ul.graphic li a {
+  color: #555;
+  font-size:19px;
+  padding-left: 2em;
+  text-decoration:none;
+}
+ul.graphic li a:before {
+  content: '';
+  background:url(images/icon2.png)no-repeat 0px 0px;
+  position: absolute;
+  top: 11%;
+  left: 0%;
+  display: block;
+  width: 48px;
+  height: 25px;
+  transition: 0.5s all ease;
+  -webkit-transition: 0.5s all ease;
+  -moz-transition: 0.5s all ease;
+  -o-transition: 0.5s all ease;
+  -ms-transition: 0.5s all ease;
+}
+ul.graphic li a:hover{
+	color:#08b271;
+}
+ul.graphic li a:hover:before {
   transform: scale(1.1);
   -webkit-transform: scale(1.1);
   -moz-transform: scale(1.1);
@@ -625,6 +680,10 @@ small, .small {
 }
 
 .skill-background{margin-top:30px; margin-left: 10px; float:left !important; width:350px !important}
+
+.skill-background-one{margin-top:30px; margin-left: 10px; float:left !important; width:350px !important}
+
+.skill-background-two{margin-top:30px; margin-left: 10px; float:left !important; width:350px !important}
 	  
     }
 
@@ -647,6 +706,20 @@ small, .small {
 }
 
 .skill-background{margin-top:30px; margin-left: 10px; float:left !important; width:350px !important}
+
+.skill-background-one{margin-top:30px; margin-left: 10px; float:left !important; width:350px !important}
+
+.skill-background-two{margin-top:30px; margin-left: 10px; float:left !important; width:350px !important}
+	  
+#banner h2 {
+    color: #39e5a3;
+    font-size: 77px;
+    font-weight: bold;
+    margin: 0;
+    padding-top: 18% !important;
+    text-align: center;
+}	  
+	  
 	  
     }
 
@@ -670,7 +743,9 @@ small, .small {
 	line-height: 21px !important;
 }
 
-.skill-background{margin-top:30px; margin-left: 130px !important; float:left !important;}
+.skill-background{margin-top:30px; margin-left: 10px; float:left !important; width:350px !important}
+.skill-background-one{margin-top:30px; margin-left: 10px; float:left !important; width:350px !important}
+.skill-background-two{margin-top:30px; margin-left: 10px; float:left !important; width:350px !important}
 
 .owl-carousel .owl-wrapper-outer {
     overflow: visible !important;
@@ -707,7 +782,11 @@ ul.address_icon {
 	line-height: 21px !important;
 }
 
-.skill-background{margin-top:30px; margin-left: 50px !important; float:left !important;}
+.skill-background{margin-top:30px; margin-left: 10px; float:left !important; width:350px !important}
+
+.skill-background-one{margin-top:30px; margin-left: 10px; float:left !important; width:350px !important}
+
+.skill-background-two{margin-top:30px; margin-left: 10px; float:left !important; width:350px !important}
 
 
 .owl-carousel .owl-wrapper-outer {
@@ -723,6 +802,19 @@ ul.address_icon {
     padding: 13px 0 0 !important;
     width: 100% !important;
 }
+
+
+#banner h2 {
+    font-size: 35px !important;
+   }
+   
+#banner h3{
+    font-size: 22px !important;
+   }
+.banner_menu_right {
+    float: right;
+    width: 100% !important;
+} 
 	  
     }
 	
@@ -743,7 +835,12 @@ ul.address_icon {
 	line-height: 21px !important;
 }
 
-.skill-background{margin-top:30px; margin-left: 10px; float:left !important;}
+
+.skill-background{margin-top:30px; margin-left: 10px; float:left !important; width:350px !important}
+
+.skill-background-one{margin-top:30px; margin-left: 10px; float:left !important; width:350px !important}
+
+.skill-background-two{margin-top:30px; margin-left: 10px; float:left !important; width:350px !important}
 
 
 .skill_top_head h2{color: #fff !important;
@@ -773,6 +870,12 @@ ul.address_icon {
 
 @media only screen and (max-width: 414px) {
 .skill-background{background-image:url(images/quality_320.png) !important ;width:305 !important; height:230px; margin-top:30px; margin-left: 10px !important; float:left !important;}
+
+.skill-background-one{background-image:url(images/quality_320_1.png)!important ;width:305 !important; height:230px; margin-top:30px; margin-left: 10px !important; float:left !important;}
+
+.skill-background-two{background-image:url(images/quality_320_2.png)!important ;width:305 !important; height:230px; margin-top:30px; margin-left: 10px !important; float:left !important;}
+
+
 	 
 .skill-header h2 {
     color: #fff !important;
@@ -817,6 +920,25 @@ ul.address_icon {
     margin: 34px 0 0;
     padding: 13px 0 0 !important;
     width: 100% !important;
+}
+
+
+#banner h2 {
+    font-size: 35px !important;
+   }
+   
+#banner h3{
+    font-size: 22px !important;
+   }
+.banner_menu_right {
+    float: right;
+    width: 100% !important;
+}   
+
+ul.about_benifits li a {
+    font-size: 16px !important;
+    padding-left: 35px !important;
+ 
 }
 
 }
